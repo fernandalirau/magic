@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
+https://paineliptvgratis.com/intro.mp4
+
+#EXTINF:-1 tvg-logo="http://g1filmesonline.info/wp-content/uploads/2018/01/kWg4mjVGwdlsir75nic3ch0a20P-min.jpg" group-title="Categorias", Batman: Gotham by Gaslight
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-BAIXO.mp4#spark_video_download
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/25/19/04/419991.jpg" group-title="Categorias", Pica-Pau o filme
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PICAPAU2018DUB-BAIXO.mp4#spark_video_download
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/6hmKDJqxJ6FKSXKk5ljMZ7cCaHo=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/09/image005.jpg" group-title="Categorias", O destino de uma nacao LEG
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-BAIXO.mp4#spark_video_download
+
+#EXTINF:-1 tvg-logo="http://tmsimg.cds.nowonline.com.br//assets/p13637714_v_v8_am.jpg?api_key=snfwq54bnzvgucd7cqvgt86r" group-title="Categorias", Loucuras em familia DUB
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-BAIXO.mp4#spark_video_download
+
